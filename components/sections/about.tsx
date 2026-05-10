@@ -95,19 +95,19 @@ export function AboutSection() {
 
               {/* Bachelor 3 */}
               <div className="pl-4 border-l-2 border-[#6ee7b7]/30 space-y-1">
-                <p className="text-[#6ee7b7] text-sm font-medium">Bachelor 3 DSNS en alternance</p>
+                <p className="text-[#6ee7b7] text-sm font-medium">Bachelor 3 AIS en alternance</p>
                 <div className="pl-3 space-y-0.5 text-[#8b8b99] text-xs">
-                  <p>Contrat d'1 an</p>
-                  <p>Rythme 1 semaine / 1 semaine</p>
+                  <p>Contrat - 1 an</p>
+                  <p>Rythme - 1 semaine Cours / 3 semaines Entreprise</p>
                 </div>
               </div>
 
               {/* Master E3IN */}
               <div className="pl-4 border-l-2 border-[#c084fc]/30 space-y-1">
-                <p className="text-[#c084fc] text-sm font-medium">suivi du Master E3IN "Expert Cybersecurite"</p>
+                <p className="text-[#c084fc] text-sm font-medium">suivi d'un Master en Expertise Cybersécurité</p>
                 <div className="pl-3 space-y-0.5 text-[#8b8b99] text-xs">
                   <p>Contrat de 2 ans, a partir de la rentree 2027</p>
-                  <p>Rythme 4 semaines / 4 semaines</p>
+                  <p>Rythme et structure choisis ultérieurement</p>
                 </div>
               </div>
 
@@ -123,7 +123,7 @@ export function AboutSection() {
             >
               <ShieldCheckIcon className="w-5 h-5 text-[#6ee7b7] shrink-0 mt-0.5" />
               <p className="text-sm text-[#8b8b99] leading-relaxed">
-                Étant reconnu <strong className="text-foreground font-semibold">RQTH</strong>, en m'embauchant en contrat d'apprentissage, votre entreprise devient éligible aux aides maximales à l'embauche, sans limite d'âge ni de niveau.
+                Étant reconnu <strong className="text-foreground font-semibold">RQTH [Invisible et sans impact opérationnel]</strong>, en m'embauchant en contrat d'apprentissage, votre entreprise devient éligible aux aides maximales à l'embauche, sans limite d'âge ni de niveau.
               </p>
             </motion.div>
 
