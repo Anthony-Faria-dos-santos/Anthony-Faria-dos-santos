@@ -16,7 +16,6 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/✉%20Email-Contact-fbbf24?style=flat&labelColor=0d1117&color=fbbf24)](mailto:Anthony.devfsjs@gmail.com)
 &nbsp;
-[![Alternance](https://img.shields.io/badge/📩%20Alternance-Sept%202026-f87171?style=flat&labelColor=0d1117&color=f87171)](https://afds-wine.vercel.app/#contact)
 
 
 <div align="center">
